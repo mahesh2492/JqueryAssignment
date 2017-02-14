@@ -1,0 +1,45 @@
+.features{
+  width:200px;
+  height:300px;
+  margin:55px;
+  margin-left:1px;
+}
+.recent{
+  width:202px;
+  height:302px;
+  border:0;
+  margin:55px;
+}
+.facebook1{
+  font-size:25px !important;
+  color:blue !important;
+}
+.twitter1{
+  font-size:25px !important;
+  color:blue !important;
+  margin-left:4px !important;
+}
+.instagram1{
+  font-size:25px !important;
+  color:brown !important;
+  margin-left:4px !important;
+}
+.youtube1{
+  font-size:20px !important;
+  color:blue !important;
+  margin-left:4px !important;
+}
+#panel, #flip {
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #555;
+    color: white;
+    border: solid 1px #666;
+    border-radius: 3px;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
